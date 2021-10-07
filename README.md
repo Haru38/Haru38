@@ -1,6 +1,5 @@
 
 
-<!--
 **Haru38/Haru38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ### ✨Github Profile Trophy✨
+### ✨Github Profile Trophy✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haru38&no-bg=true)](https://github.com/Haru38/github-profile-trophy) -->
 
 
