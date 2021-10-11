@@ -1,5 +1,6 @@
 # Haru38's page
-##
+## About me
+Graduate student. Works as an engineer in bioinformatics, machine learning, and blockchain. Now I'm studying web-topics.
 
 ## About my activity
 <p align="left"> 
