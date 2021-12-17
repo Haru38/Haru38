@@ -1,9 +1,5 @@
 # Haru's page
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Haru38.;THANK+YOU+FOR+COMING.)
-## About me
-Graduate student. Works as an engineer in bioinformatics, machine learning, and blockchain. Now I'm studying web-topics.
-
-
 
 ## About my activity
 <p align="left"> 
