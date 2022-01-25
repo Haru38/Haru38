@@ -1,11 +1,19 @@
 # Haru's page
+
+### Hi there 👋 I'm haru38
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Haru38.;THANK+YOU+FOR+COMING.)
 
-## About my activity
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru38&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Haru38&theme=onedark&show_icons=ture" />
-</p>
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Haru38&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Haru38&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Haru38&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+
+### 📊 GitHub Stats:
+---
+![Haru38 github stats](https://github-readme-stats.vercel.app/api?username=Haru38&theme=radical&show_icons=true&count_private=true)
+
+![Haru38 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haru38&theme=solarized_dark)
+![Haru38 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haru38&theme=solarized_dark)
+![Haru38 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru38&theme=solarized_dark)
