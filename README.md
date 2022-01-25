@@ -1,7 +1,7 @@
 # Haru's page
 
 ### Hi there 👋 I'm haru
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Haru38.;THANK+YOU+FOR+COMING.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Haru.;THANK+YOU+FOR+COMING.)
 
 ### 🏆 GitHub Profile Trophy:
 ---
