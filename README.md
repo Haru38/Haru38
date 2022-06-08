@@ -17,3 +17,17 @@
 ![Haru38 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haru38&theme=solarized_dark)
 ![Haru38 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haru38&theme=solarized_dark)
 ![Haru38 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru38&theme=solarized_dark)
+
+### skill set
+- python 
+  - pytorch
+  - scikit learn
+
+- solidity
+
+- java script 
+  - web3.js
+  - react.js
+ 
+- C
+- java
